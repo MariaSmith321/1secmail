@@ -2,7 +2,7 @@
 
 1secmail is a free, easy-to-use platform that generates disposable email addresses instantly. Whether you call it 1 sec mail, one second mail, or temp mail org, our service is designed to protect your primary email from unwanted clutter. With just a click, you can create a temp Gmail-like address that self-destructs after a short period, ensuring your inbox stays clean and secure.
 
-![1secmail](/1secmail.jpg)
+![1secmail](/1secmail.png)
 
 #  What is a disposable email address?
 
