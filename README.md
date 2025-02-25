@@ -29,7 +29,7 @@ No, our service is completely hassle-free. Just visit the website, and you’re 
 ## Explore the Power of Disposable Emails Today!
 Whether you’re looking for a 10-minute mail, temp mail org, or one second mail, 1secmail.cc has you covered. Protect your privacy, avoid spam, and simplify your online experience with our reliable and secure disposable email service. Try 1secmail.cc today and see why it’s the go-to choice for millions of users worldwide!
 
-![1secmail](/1secmail.jpg)
+![1secmail](/1secmailcc.png)
 
 ## Conclusion
 
