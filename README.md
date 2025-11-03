@@ -6,7 +6,7 @@
 
 #  What is a disposable email address?
 
-A disposable email address is a [temporary email](https://www.1secmail.cc) temporary email that you can use for short-term purposes. It’s perfect for avoiding spam and protecting your primary email.
+A disposable email address is a [1secmail](https://www.1secmail.cc) temporary email that you can use for short-term purposes. It’s perfect for avoiding spam and protecting your primary email.
 
 ## Is 1secmail.cc free to use?
 Yes! 1secmail.cc is completely free, and you can generate as many one-time email addresses as you need.
